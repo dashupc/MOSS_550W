@@ -1,0 +1,141 @@
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20250912-21:57
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+address/file: 32768 C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+address/file: 53248 C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\ota_data_initial.bin
+address/file: 65536 C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\srmodels.bin
+address/file: 4194304 C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\xiaozhi.bin
+Wrote 16464 bytes (11415 compressed) at 0x00000000 in 0.6 seconds (effective 228.5 kbit/s)...
+Wrote 3072 bytes (142 compressed) at 0x00008000 in 0.1 seconds (effective 230.5 kbit/s)...
+Wrote 8192 bytes (31 compressed) at 0x0000d000 in 0.2 seconds (effective 315.9 kbit/s)...
+set STOP FLG: Truecom closed
+Total use time: 20 s
+Download result: PASS
+*************************** END ****************************
+
+set state: ESP_DL_STOP
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20250912-21:58
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+address/file: 32768 C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+address/file: 53248 C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\ota_data_initial.bin
+address/file: 65536 C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\srmodels.bin
+address/file: 4194304 C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\xiaozhi.bin
+Wrote 16464 bytes (11415 compressed) at 0x00000000 in 0.6 seconds (effective 224.0 kbit/s)...
+Wrote 3072 bytes (142 compressed) at 0x00008000 in 0.1 seconds (effective 230.0 kbit/s)...
+Wrote 8192 bytes (31 compressed) at 0x0000d000 in 0.2 seconds (effective 317.0 kbit/s)...
+Wrote 3994700 bytes (3222273 compressed) at 0x00010000 in 35.7 seconds (effective 896.2 kbit/s)...
+Wrote 2735120 bytes (1628310 compressed) at 0x00400000 in 23.3 seconds (effective 938.2 kbit/s)...
+File: C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+File  md5: 4a6c3f2610deebc8aceb38ae7ee39f98
+Flash md5: 4a6c3f2610deebc8aceb38ae7ee39f98
+Hash of data verified.
+File: C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+File  md5: c91484beb990ef01cb9c2ff9f70d0fbe
+Flash md5: c91484beb990ef01cb9c2ff9f70d0fbe
+Hash of data verified.
+File: C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\ota_data_initial.bin
+File  md5: 84d04c9d6cc8ef35bf825d51a5277699
+Flash md5: 84d04c9d6cc8ef35bf825d51a5277699
+Hash of data verified.
+File: C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\srmodels.bin
+File  md5: 7686d3eec345e789defbbbc0c84f8b7e
+Flash md5: 7686d3eec345e789defbbbc0c84f8b7e
+Hash of data verified.
+File: C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\xiaozhi.bin
+File  md5: e5c2941aae1d91ba29d0b6c0f896f1cc
+Flash md5: e5c2941aae1d91ba29d0b6c0f896f1cc
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 74 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20250912-22:02
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+address/file: 32768 C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+address/file: 53248 C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\ota_data_initial.bin
+address/file: 65536 C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\srmodels.bin
+address/file: 4194304 C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\xiaozhi.bin
+Wrote 16464 bytes (11415 compressed) at 0x00000000 in 0.6 seconds (effective 221.9 kbit/s)...
+Wrote 3072 bytes (142 compressed) at 0x00008000 in 0.1 seconds (effective 233.0 kbit/s)...
+Wrote 8192 bytes (31 compressed) at 0x0000d000 in 0.2 seconds (effective 318.4 kbit/s)...
+Wrote 3994700 bytes (3222273 compressed) at 0x00010000 in 36.1 seconds (effective 885.2 kbit/s)...
+Wrote 2735120 bytes (1628310 compressed) at 0x00400000 in 23.5 seconds (effective 933.0 kbit/s)...
+File: C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+File  md5: 4a6c3f2610deebc8aceb38ae7ee39f98
+Flash md5: 4a6c3f2610deebc8aceb38ae7ee39f98
+Hash of data verified.
+File: C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+File  md5: c91484beb990ef01cb9c2ff9f70d0fbe
+Flash md5: c91484beb990ef01cb9c2ff9f70d0fbe
+Hash of data verified.
+File: C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\ota_data_initial.bin
+File  md5: 84d04c9d6cc8ef35bf825d51a5277699
+Flash md5: 84d04c9d6cc8ef35bf825d51a5277699
+Hash of data verified.
+File: C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\srmodels.bin
+File  md5: 7686d3eec345e789defbbbc0c84f8b7e
+Flash md5: 7686d3eec345e789defbbbc0c84f8b7e
+Hash of data verified.
+File: C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\xiaozhi.bin
+File  md5: e5c2941aae1d91ba29d0b6c0f896f1cc
+Flash md5: e5c2941aae1d91ba29d0b6c0f896f1cc
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 74 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20250912-22:08
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0xef
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\ESP_550W_xiaozhiAI_v1.0.bin
+Wrote 6929424 bytes (4864894 compressed) at 0x00000000 in 58.6 seconds (effective 945.5 kbit/s)...
+File: C:\Users\Administrator\Desktop\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\ESP_550W_xiaozhiAI_v1.0.bin
+File  md5: f4235d4386a389fdbd4ebf8448a5b582
+Flash md5: f4235d4386a389fdbd4ebf8448a5b582
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 72 s
+Download result: PASS
+*************************** END ****************************
+
