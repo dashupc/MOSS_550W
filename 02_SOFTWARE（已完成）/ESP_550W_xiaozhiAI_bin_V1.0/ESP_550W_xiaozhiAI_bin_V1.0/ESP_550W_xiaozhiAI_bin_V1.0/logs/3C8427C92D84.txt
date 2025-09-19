@@ -1,0 +1,23 @@
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20250918-14:47
+Connect baud: 115200
+Com:COM25
+connecting...
+manufacturer_id: 0xc8
+device_id: 0x4018
+fs:0x200200
+address/file: 0 D:\开源硬件项目\流浪地球 550W（MOSS）小智AI生态中枢\02_SOFTWARE（已完成）\ESP_550W_xiaozhiAI_bin_V1.0\ESP_550W_xiaozhiAI_bin_V1.0\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\ESP_550W_xiaozhiAI_v1.0.bin
+Wrote 6929424 bytes (4864894 compressed) at 0x00000000 in 62.5 seconds (effective 887.2 kbit/s)...
+File: D:\开源硬件项目\流浪地球 550W（MOSS）小智AI生态中枢\02_SOFTWARE（已完成）\ESP_550W_xiaozhiAI_bin_V1.0\ESP_550W_xiaozhiAI_bin_V1.0\ESP_550W_xiaozhiAI_bin_V1.0\dl_temp\bin_tmp\downloadPanel1\ESP_550W_xiaozhiAI_v1.0.bin
+File  md5: f4235d4386a389fdbd4ebf8448a5b582
+Flash md5: f4235d4386a389fdbd4ebf8448a5b582
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 77 s
+Download result: PASS
+*************************** END ****************************
+
